@@ -122,8 +122,9 @@ author:
   youtube          : # "https://youtube.com"
   wikipedia        : #
   bilibili         : #"https://space.bilibili.com/381546863"
-  zhihu            : 
-  blog             : 
+  zhihu            : "https://zhihu.com"
+  blog             : "https://blog.csdn.net/Meet_csdn"
+
 
 # Reading Files
 include:
