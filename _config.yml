@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "nanjing-China" #
-title                    : "gx-sun / MS" #主页上左上角信息
+title                    : "滕嘉彦" #主页上左上角信息
 title_separator          : "-"
-name                     : &name "gx-sun" 
+name                     : &name "滕嘉彦" 
 description              : &description "personal description"
-url                      : https://gx-sun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tengjiayan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gx-sun.github.io"
+repository               : "tengjiayan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -88,12 +88,12 @@ analytics:
 author:
   name             : "gx-sun"
   avatar           : "profile.png"
-  bio              : "I am a postgraduate student in NJUST of China "
-  location         : "Nanjing,China"
+  bio              : "a college student in THU of China "
+  location         : 
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
-  email            : "2698804156@qq.com"
+  email            : "tengjy20@mails.tsinghua.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "gx-sun"
+  github           : "tengjiayan20"
   google_plus      :
   keybase          :
   instagram        :
@@ -122,9 +122,8 @@ author:
   youtube          : # "https://youtube.com"
   wikipedia        : #
   bilibili         : #"https://space.bilibili.com/381546863"
-  zhihu            : "https://zhihu.com"
-  blog             : "https://blog.csdn.net/Meet_csdn"
-
+  zhihu            : 
+  blog             : 
 
 # Reading Files
 include:
