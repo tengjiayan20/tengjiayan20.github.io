@@ -19,6 +19,4 @@ I am now a third year undergraduate in the Department of Computer Science and Te
 ## Publications
 * [Jun. 2022] Assist in publishing one paper*《MIntRec: A New Dataset for Multimodal Intent Recognition》*at ACM MM 2022. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=350&t=tt&d=6oKT70Jy08qPF_EXR7PXexVX1X5I8S5uiTIntTb87ic&cmo=ff5353&cmn=ff5353'></script>
 
