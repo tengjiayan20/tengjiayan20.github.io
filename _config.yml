@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "滕嘉彦"
 title_separator          : "-"
-name                     : &name "Hanlei"
+name                     : &name "滕嘉彦"
 description              : &description "personal description"
 url                      : https://tengjiayan20.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "HanleiZhang"
+  github           : "tengjiayan20"
   google_plus      :
   keybase          :
   instagram        :
