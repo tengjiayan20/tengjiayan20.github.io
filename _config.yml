@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "滕嘉彦"
   avatar           : "profile.jpg"
-  bio              : "Intent Analysis, Natural Language Processing, and Multimodal Machine Learning."
+  bio              : "A college student in THU of Beijing"
   location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=PS5KVSQAAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS5KVSQAAAAJ&hl=en"
   semanticscholar  : "https://www.semanticscholar.org/author/13390595"
   email            : "zhang-hl20@mails.tsinghua.edu.cn"
   researchgate     :  "https://www.researchgate.net/profile/Hanlei_Zhang2"
