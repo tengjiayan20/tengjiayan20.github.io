@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiayan Teng"
+title                    : "Hanlei Zhang 张瀚镭"
 title_separator          : "-"
-name                     : &name "Jiayan Teng"
+name                     : &name "Hanlei Zhang"
 description              : &description "personal description"
-url                      : https://tengjiayan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://HanleiZhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tengjiayan20/tengjiayan.github.io"
+repository               : "HanleiZhang/HanleiZhang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,16 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiayan Teng"
+  name             : "Hanlei Zhang"
   avatar           : "zhl.jpg"
-  bio              : "a college student in THU"
+  bio              : "Intent Analysis, Natural Language Processing, and Multimodal Machine Learning."
   location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"https://scholar.google.com/citations?user=PS5KVSQAAAAJ&hl=en"
-  semanticscholar  : #"https://www.semanticscholar.org/author/13390595"
-  email            : "tengjy20@mails.tsinghua.edu.cn"
-  researchgate     : #"https://www.researchgate.net/profile/Hanlei_Zhang2"
+  googlescholar    : "https://scholar.google.com/citations?user=PS5KVSQAAAAJ&hl=en"
+  semanticscholar  : "https://www.semanticscholar.org/author/13390595"
+  email            : "zhang-hl20@mails.tsinghua.edu.cn"
+  researchgate     :  "https://www.researchgate.net/profile/Hanlei_Zhang2"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,20 +97,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tengjiayan20"
+  github           : "HanleiZhang"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"https://orcid.org/0000-0003-3448-6793"
+  orcid            : "https://orcid.org/0000-0003-3448-6793"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"Radiumzhl"
+  twitter          : "Radiumzhl"
   vine             :
   weibo            :
   xing             :
