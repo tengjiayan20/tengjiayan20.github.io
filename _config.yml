@@ -87,9 +87,9 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"https://scholar.google.com/citations?user=PS5KVSQAAAAJ&hl=en"
-  semanticscholar  : "https://www.semanticscholar.org/author/13390595"
-  email            : "zhang-hl20@mails.tsinghua.edu.cn"
-  researchgate     :  "https://www.researchgate.net/profile/Hanlei_Zhang2"
+  semanticscholar  : #"https://www.semanticscholar.org/author/13390595"
+  email            : "tengjy20@mails.tsinghua.edu.cn"
+  researchgate     :  #"https://www.researchgate.net/profile/Hanlei_Zhang2"
   uri              :
   bitbucket        :
   codepen          :
