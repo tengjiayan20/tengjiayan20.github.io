@@ -16,7 +16,9 @@ I am now a third year undergraduate in the Department of Computer Science and Te
 * Feb. 2023 - Now. a lab intern in KEG group of Department of Computer Science and Technology.
 
 ## Publications
+* [Jan. 2024] RELAY DIFFUSION: UNIFYING DIFFUSION PROCESS ACROSS RESOLUTIONS FOR IMAGE SYNTHESIS. [ICLR 2024 Spotlight]
+
 * [Jun. 2022] Assist in publishing one paper*《MIntRec: A New Dataset for Multimodal Intent Recognition》*at ACM MM 2022. 
 
-  [Multimodal Intent Recognition Dataset](https://github.com/thuiar/MIntRec)
+
 
