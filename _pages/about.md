@@ -8,17 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am now a third year undergraduate in the Department of Computer Science and Technology (DCST) at Tsinghua University, Beijing, China. My supervisor is Prof. [Jie Tang](http://keg.cs.tsinghua.edu.cn/jietang/). My research interests now lies in multimodal machine learning.
+I am a PhD student at the KEG Laboratory, Department of Computer Science, Tsinghua University. My supervisor is Prof. [Jie Tang](http://keg.cs.tsinghua.edu.cn/jietang/). My research interests now lies in diffusion, especially video generation.
+I am now a researcher in ZhiPu AI working on video generation.
 
-## Education and Experience
-* Sep. 2020 - Now. college student, Department of Computer Science and Technology, Tsinghua University, China.
-* Dec. 2021 - Jan. 2023. a lab intern in THUIAR group of Department of Computer Science and Technology.
-* Feb. 2023 - Now. a lab intern in KEG group of Department of Computer Science and Technology.
+## Education
+* Sep. 2020 - 2024. college student, Department of Computer Science, Tsinghua University.
+* Dec. 2024 - now. PhD student, KEG, Department of Computer Science, Tsinghua University.
+
 
 ## Publications
-* [Jan. 2024] RELAY DIFFUSION: UNIFYING DIFFUSION PROCESS ACROSS RESOLUTIONS FOR IMAGE SYNTHESIS. [ICLR 2024 Spotlight]
+* [Aug. 2024] CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer. [ICLR 2025] (Co-First-Author)
 
-* [Jun. 2022] Assist in publishing one paper*《MIntRec: A New Dataset for Multimodal Intent Recognition》*at ACM MM 2022. 
+* [Mar. 2024] CogView3: Finer and Faster Text-to-Image Generation via Relay Diffusion. [ECCV 2024] (Co-First-Author)
+
+* [Sept. 2023] RELAY DIFFUSION: UNIFYING DIFFUSION PROCESS ACROSS RESOLUTIONS FOR IMAGE SYNTHESIS. [ICLR 2024 Spotlight]
+
 
 
 
